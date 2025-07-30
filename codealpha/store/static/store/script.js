@@ -1,0 +1,1 @@
+# Placeholder for script.js in ecommerce_project/store/static/store

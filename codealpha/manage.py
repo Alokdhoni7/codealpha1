@@ -1,0 +1,1 @@
+# Placeholder for manage.py in ecommerce_project

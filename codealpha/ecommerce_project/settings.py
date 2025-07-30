@@ -1,0 +1,1 @@
+# Placeholder for settings.py in ecommerce_project/ecommerce_project

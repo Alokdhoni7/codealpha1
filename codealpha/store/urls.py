@@ -1,0 +1,1 @@
+# Placeholder for urls.py in ecommerce_project/store

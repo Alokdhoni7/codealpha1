@@ -1,0 +1,1 @@
+# Placeholder for views.py in ecommerce_project/store
